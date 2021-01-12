@@ -4,7 +4,6 @@ To use this code you'll have to insert: [API_ID], [API_HASH], [Your_phone_number
 
 [Target] can be specified by: Phone number including +, Telegram username, Contact name.
 
-
 This code will first provide you every detail that user filled on Telegram into '[target].txt'
 
 After that two files will be created, '[target]_log.txt' and 'randoms.txt'
